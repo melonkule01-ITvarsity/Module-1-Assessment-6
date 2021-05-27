@@ -1,0 +1,44 @@
+.gallery img{
+ width: 250px;
+ height: 250px;
+ 
+    
+
+
+}
+
+body
+{
+    background-color:bisque;
+    
+}
+
+#menu{
+      width: 20;
+      height: 40px;
+      background-color: palevioletred;
+      padding-top: 12px;
+}
+
+#menu a{
+      color: #fff;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+
+}
+
+img {
+  border: 5px solid #555;
+  
+}
+
+table{
+    background-color: burlywood;
+}
+
+
